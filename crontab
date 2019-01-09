@@ -1,4 +1,4 @@
 # Edit this file to introduce tasks to be run by cron.
 # min,hour,dayOfMonth,month,dayOfWeek command
 
-20 0 * * * $HOME/announcer.sh
+*/20 * * * * $HOME/announcer.sh
