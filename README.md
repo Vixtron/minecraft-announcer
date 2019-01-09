@@ -1,2 +1,7 @@
 # minecraft-announcer
-Bash written Minecraft announcer
+A simple bash written Minecraft server announcer, works with any Minecraft version
+### Requirements
+
+- Screen session
+- Bash
+- Any *NIX distribution
